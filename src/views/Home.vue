@@ -2,13 +2,13 @@
   <v-main>
     <v-parallax
       dark
-      src="@/assets/hero.jpg"
+      src="@/assets/136638.jpg"
     >
       <v-row align="center" justify="center">
         <v-col class="text-center" cols="12">
           <h1 class="display-1 font-weight-thin mb-4">PORTFOLIO</h1>
           <!-- TODO: ここ差し替える -->
-          <h4 class="subheading">ここを自分の名前とかに差し替えてね</h4>
+          <h4 class="subheading">Ben Watanabe</h4>
           <!-- ハッシュリンク追加 -->
           <a href="#works-header">works</a>
         </v-col>

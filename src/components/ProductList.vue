@@ -21,7 +21,7 @@ export default {
     products: [
       {
         id: 1,
-        name: 'ここにタイトルを入れてね',
+        name: '',
         // TODO: ここに差し替えたい画像のパスを入れてね
         image: require('@/assets/re-vr.png'),
         year: '2020',
@@ -33,14 +33,14 @@ export default {
         ],
       },
       // image: "vue-portfolio/src/assets/re-vr.png",
-      // {
-      //   id: 2,
-      //   name: "work2",
-      //   image: "https://dummyimage.com/250x150/000/fff",
-      //   year: "2019",
-      //   category: "LP",
-      //   use: "Vue.js",
-      // },
+      {
+         id: 2,
+         name: "work2",
+         image: "https://dummyimage.com/250x150/000/fff",
+         year: "2019",
+         category: "LP",
+         use: "Vue.js",
+       },
       // {
       //   id: 3,
       //   name: "work3",
