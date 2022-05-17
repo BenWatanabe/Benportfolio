@@ -25,7 +25,7 @@ export default {
         // TODO: ここに差し替えたい画像のパスを入れてね
         image: require('@/assets/re-vr.png'),
         year: '2020',
-        category: 'プロジェクト',
+        category: '星友祭実行委員会　ミスコン部',
         use: 'ここに使った技術を入れてね',
         urls: [
           // TODO: ここにリンクしたいURLを入れてね
