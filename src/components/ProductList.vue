@@ -23,23 +23,23 @@ export default {
         id: 1,
         name: '',
         // TODO: ここに差し替えたい画像のパスを入れてね
-        image: require('@/assets/re-vr.png'),
+        image: require('@/assets/230376.jpg'),
         year: '2020',
-        category: '星友祭実行委員会　ミスコン部',
-        use: 'ここに使った技術を入れてね',
+        category: '明星大学　TOUMAIプロジェクト',
+        use: 'Swift',
         urls: [
           // TODO: ここにリンクしたいURLを入れてね
-          'http://google.com'
+          'https://www.meisei-u.ac.jp/2022/2022021401.html'
         ],
       },
       // image: "vue-portfolio/src/assets/re-vr.png",
       {
          id: 2,
-         name: "work2",
-         image: "https://dummyimage.com/250x150/000/fff",
-         year: "2019",
-         category: "LP",
-         use: "Vue.js",
+         name: "情報x国際コミュニケーションxジョージア",
+         image: require('@/assets/AR app-2.png'),
+         year: "2021",
+         category: "ARアプリケーション",
+         use: "Xcode seift",
        },
       // {
       //   id: 3,
